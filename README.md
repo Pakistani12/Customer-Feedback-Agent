@@ -9,3 +9,15 @@ This Streamlit application classifies customer feedback as positive or negative 
 - Sends an automated email for negative feedback
 
 - Displays AI-generated responses to customer feedback
+
+## **Installation**
+
+## Prerequisites
+
+- Python 3.8+
+
+- Streamlit
+
+- OpenAI API Key
+
+- SMTP email credentials (for automated emails)

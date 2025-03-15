@@ -21,3 +21,7 @@ This Streamlit application classifies customer feedback as positive or negative 
 - OpenAI API Key
 
 - SMTP email credentials (for automated emails)
+**Install dependencies:**
+```sh
+pip install -r requirements.txt
+```

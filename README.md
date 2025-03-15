@@ -32,3 +32,34 @@ export EMAIL_SENDER="your_email@gmail.com"
 export EMAIL_RECEIVER="support_email@gmail.com"
 export EMAIL_PASSWORD="your_email_password"
 ```
+## **Run the application**
+```sh
+streamlit run app.py
+```
+## **Usage**
+
+- Enter customer feedback in the text area.
+
+- Click "Submit Feedback."
+
+- If the feedback is positive, click on a star (⭐) to submit a rating.
+
+- If the feedback is negative, an automated email is sent to customer support.
+  
+## **Dependencies**
+
+- streamlit
+
+- openai
+
+- langchain
+
+- pydantic
+
+- smtplib
+
+- email.mime
+
+## **License**
+
+This project is licensed under the MIT License.

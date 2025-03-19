@@ -27,10 +27,10 @@ pip install -r requirements.txt
 ```
 ## **Set environment variables:**
 ```sh
-OPENAI_API_KEY="your_openai_api_key"
-EMAIL_SENDER="your_email@gmail.com"
-EMAIL_RECEIVER="support_email@gmail.com"
-EMAIL_PASSWORD="your_email_password"
+OPENAI_API_KEY=""
+EMAIL_SENDER=""
+EMAIL_RECEIVER=""
+EMAIL_PASSWORD=""
 ```
 ## **Run the application**
 ```sh
